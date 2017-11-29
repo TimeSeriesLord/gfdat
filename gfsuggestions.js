@@ -1,3 +1,5 @@
+var suggestions = [
+
 { 'value': 'autaugaal', 'label': 'Autauga, Alabama' },
 { 'value': 'baldwinal', 'label': 'Baldwin, Alabama' },
 { 'value': 'barboural', 'label': 'Barbour, Alabama' },
@@ -1800,7 +1802,7 @@
 { 'value': 'colfaxnm', 'label': 'Colfax, New Mexico' },
 { 'value': 'currynm', 'label': 'Curry, New Mexico' },
 { 'value': 'debacanm', 'label': 'De Baca, New Mexico' },
-{ 'value': 'doñaananm', 'label': 'Doña Ana, New Mexico' },
+{ 'value': 'doÃ±aananm', 'label': 'DoÃ±a Ana, New Mexico' },
 { 'value': 'eddynm', 'label': 'Eddy, New Mexico' },
 { 'value': 'grantnm', 'label': 'Grant, New Mexico' },
 { 'value': 'guadalupenm', 'label': 'Guadalupe, New Mexico' },
@@ -3141,3 +3143,4 @@
 { 'value': 'uintawy', 'label': 'Uinta, Wyoming' },
 { 'value': 'washakiewy', 'label': 'Washakie, Wyoming' },
 { 'value': 'westonwy', 'label': 'Weston, Wyoming' },
+];
