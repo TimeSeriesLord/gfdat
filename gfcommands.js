@@ -1,5 +1,6 @@
 var gfcommands = {
 
+// ALABAMA
 autaugaal: ['Autauga, Alabama', 'https://greaterfinds.blogspot.com/search/label/autauga+al'],
 baldwinal: ['Baldwin, Alabama', 'https://greaterfinds.blogspot.com/search/label/baldwin+al'],
 barboural: ['Barbour, Alabama', 'https://greaterfinds.blogspot.com/search/label/barbour+al'],
@@ -67,5 +68,36 @@ walkeral: ['Walker, Alabama', 'https://greaterfinds.blogspot.com/search/label/wa
 washingtonal: ['Washington , Alabama', 'https://greaterfinds.blogspot.com/search/label/washington+al'],
 wilcoxal: ['Wilcox, Alabama', 'https://greaterfinds.blogspot.com/search/label/wilcox+al'],
 winstonal: ['Winston, Alabama', 'https://greaterfinds.blogspot.com/search/label/winston+al'],
+
+// ALASKA
+aleutianseastak: ['Aleutians East, Alaska', 'https://greaterfinds.blogspot.com/search/label/aleutianseast+ak'],
+aleutianswestak: ['Aleutians West , Alaska', 'https://greaterfinds.blogspot.com/search/label/aleutianswest+ak'],
+anchorageak: ['Anchorage, Alaska', 'https://greaterfinds.blogspot.com/search/label/anchorage+ak'],
+bethelak: ['Bethel , Alaska', 'https://greaterfinds.blogspot.com/search/label/bethel+ak'],
+bristolbayak: ['Bristol Bay, Alaska', 'https://greaterfinds.blogspot.com/search/label/bristolbay+ak'],
+denaliak: ['Denali, Alaska', 'https://greaterfinds.blogspot.com/search/label/denali+ak'],
+dillinghamak: ['Dillingham , Alaska', 'https://greaterfinds.blogspot.com/search/label/dillingham+ak'],
+fairbanksnorthstarak: ['Fairbanks North Star, Alaska', 'https://greaterfinds.blogspot.com/search/label/fairbanksnorthstar+ak'],
+hainesak: ['Haines, Alaska', 'https://greaterfinds.blogspot.com/search/label/haines+ak'],
+hoonahangoonak: ['Hoonah-Angoon , Alaska', 'https://greaterfinds.blogspot.com/search/label/hoonahangoon+ak'],
+juneauak: ['Juneau, Alaska', 'https://greaterfinds.blogspot.com/search/label/juneau+ak'],
+kenaipeninsulaak: ['Kenai Peninsula, Alaska', 'https://greaterfinds.blogspot.com/search/label/kenaipeninsula+ak'],
+ketchikangatewayak: ['Ketchikan Gateway, Alaska', 'https://greaterfinds.blogspot.com/search/label/ketchikangateway+ak'],
+kodiakislandak: ['Kodiak Island, Alaska', 'https://greaterfinds.blogspot.com/search/label/kodiakisland+ak'],
+kusilvakak: ['Kusilvak , Alaska', 'https://greaterfinds.blogspot.com/search/label/kusilvak+ak'],
+lakeandpeninsulaak: ['Lake and Peninsula, Alaska', 'https://greaterfinds.blogspot.com/search/label/lakeandpeninsula+ak'],
+matanuskasusitnaak: ['Matanuska-Susitna, Alaska', 'https://greaterfinds.blogspot.com/search/label/matanuskasusitna+ak'],
+nomeak: ['Nome , Alaska', 'https://greaterfinds.blogspot.com/search/label/nome+ak'],
+northslopeak: ['North Slope, Alaska', 'https://greaterfinds.blogspot.com/search/label/northslope+ak'],
+northwestarcticak: ['Northwest Arctic, Alaska', 'https://greaterfinds.blogspot.com/search/label/northwestarctic+ak'],
+petersburgak: ['Petersburg, Alaska', 'https://greaterfinds.blogspot.com/search/label/petersburg+ak'],
+princeofwaleshyderak: ['Prince of Wales-Hyder, Alaska', 'https://greaterfinds.blogspot.com/search/label/princeofwaleshyder+ak'],
+sitkaak: ['Sitka, Alaska', 'https://greaterfinds.blogspot.com/search/label/sitka+ak'],
+skagwayak: ['Skagway, Alaska', 'https://greaterfinds.blogspot.com/search/label/skagway+ak'],
+southeastfairbanksak: ['Southeast Fairbanks , Alaska', 'https://greaterfinds.blogspot.com/search/label/southeastfairbanks+ak'],
+valdezcordovaak: ['Valdez-Cordova , Alaska', 'https://greaterfinds.blogspot.com/search/label/valdezcordova+ak'],
+wrangellak: ['Wrangell, Alaska', 'https://greaterfinds.blogspot.com/search/label/wrangell+ak'],
+yakutatak: ['Yakutat, Alaska', 'https://greaterfinds.blogspot.com/search/label/yakutat+ak'],
+yukonkoyukukak: ['Yukon-Koyukuk , Alaska', 'https://greaterfinds.blogspot.com/search/label/yukonkoyukuk+ak'],
 
 }
