@@ -67,4 +67,38 @@ var suggestions = [
 { 'value': 'washingtonal', 'label': 'Washington , Alabama' },
 { 'value': 'wilcoxal', 'label': 'Wilcox, Alabama' },
 { 'value': 'winstonal', 'label': 'Winston, Alabama' },
+
+{ 'value': 'aleutianseastak', 'label': 'Aleutians East, Alaska' },
+{ 'value': 'aleutianswestak', 'label': 'Aleutians West , Alaska' },
+{ 'value': 'anchorageak', 'label': 'Anchorage, Alaska' },
+{ 'value': 'bethelak', 'label': 'Bethel , Alaska' },
+{ 'value': 'bristolbayak', 'label': 'Bristol Bay, Alaska' },
+{ 'value': 'denaliak', 'label': 'Denali, Alaska' },
+{ 'value': 'dillinghamak', 'label': 'Dillingham , Alaska' },
+{ 'value': 'fairbanksnorthstarak', 'label': 'Fairbanks North Star, Alaska' },
+{ 'value': 'hainesak', 'label': 'Haines, Alaska' },
+{ 'value': 'hoonahangoonak', 'label': 'Hoonah-Angoon , Alaska' },
+{ 'value': 'juneauak', 'label': 'Juneau, Alaska' },
+{ 'value': 'kenaipeninsulaak', 'label': 'Kenai Peninsula, Alaska' },
+{ 'value': 'ketchikangatewayak', 'label': 'Ketchikan Gateway, Alaska' },
+{ 'value': 'kodiakislandak', 'label': 'Kodiak Island, Alaska' },
+{ 'value': 'kusilvakak', 'label': 'Kusilvak , Alaska' },
+{ 'value': 'lakeandpeninsulaak', 'label': 'Lake and Peninsula, Alaska' },
+{ 'value': 'matanuskasusitnaak', 'label': 'Matanuska-Susitna, Alaska' },
+{ 'value': 'nomeak', 'label': 'Nome , Alaska' },
+{ 'value': 'northslopeak', 'label': 'North Slope, Alaska' },
+{ 'value': 'northwestarcticak', 'label': 'Northwest Arctic, Alaska' },
+{ 'value': 'petersburgak', 'label': 'Petersburg , Alaska' },
+{ 'value': 'princeofwaleshyderak', 'label': 'Prince of Wales-Hyder , Alaska' },
+{ 'value': 'sitkaak', 'label': 'Sitka, Alaska' },
+{ 'value': 'skagwayak', 'label': 'Skagway, Alaska' },
+{ 'value': 'southeastfairbanksak', 'label': 'Southeast Fairbanks , Alaska' },
+{ 'value': 'valdezcordovaak', 'label': 'Valdez-Cordova , Alaska' },
+{ 'value': 'wrangellak', 'label': 'Wrangell, Alaska' },
+{ 'value': 'yakutatak', 'label': 'Yakutat, Alaska' },
+{ 'value': 'yukonkoyukukak', 'label': 'Yukon-Koyukuk , Alaska' },
+
+
+
+
 ];
