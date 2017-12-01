@@ -389,7 +389,7 @@ madisonfl: ['Madison, Florida', 'https://greaterfinds.blogspot.com/search/label/
 manateefl: ['Manatee, Florida', 'https://greaterfinds.blogspot.com/search/label/manatee+fl'],
 marionfl: ['Marion, Florida', 'https://greaterfinds.blogspot.com/search/label/marion+fl'],
 martinfl: ['Martin, Florida', 'https://'''greaterfinds.blogspot.com/search/label/martin+fl'],
-miamidadefl: ['Miami-Dade, Florida', 'https://greaterfinds.blogspot.com/search/label/miamidade+fl'],
+miamidadefl: ['Miami Dade, Florida', 'https://greaterfinds.blogspot.com/search/label/miamidade+fl'],
 monroefl: ['Monroe, Florida', 'https://greaterfinds.blogspot.com/search/label/monroe+fl'],
 nassaufl: ['Nassau, Florida', 'https://greaterfinds.blogspot.com/search/label/nassau+fl'],
 okaloosafl: ['Okaloosa, Florida', 'https://greaterfinds.blogspot.com/search/label/okaloosa+fl'],
