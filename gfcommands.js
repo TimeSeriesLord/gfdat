@@ -197,7 +197,10 @@ whitear: ['White, Arkansas', 'https://greaterfinds.blogspot.com/search/label/whi
 woodruffar: ['Woodruff, Arkansas', 'https://greaterfinds.blogspot.com/search/label/woodruff+ar'],
 yellar: ['Yell, Arkansas', 'https://greaterfinds.blogspot.com/search/label/yell+ar'],
 
-alamedaca: ['Alameda, California', 'https://greaterfinds.blogspot.com/search/label/alameda+ca'],
+// CALIFORNIA
+
+alamedaca: ['Alameda, California', 
+'https://greaterfinds.blogspot.com/search/label/alameda+ca'],
 alpineca: ['Alpine, California', 'https://greaterfinds.blogspot.com/search/label/alpine+ca'],
 amadorca: ['Amador, California', 'https://greaterfinds.blogspot.com/search/label/amador+ca'],
 butteca: ['Butte, California', 'https://greaterfinds.blogspot.com/search/label/butte+ca'],
@@ -255,6 +258,8 @@ tuolumneca: ['Tuolumne, California', 'https://greaterfinds.blogspot.com/search/l
 venturaca: ['Ventura, California', 'https://greaterfinds.blogspot.com/search/label/ventura+ca'],
 yoloca: ['Yolo, California', 'https://greaterfinds.blogspot.com/search/label/yolo+ca'],
 yubaca: ['Yuba, California', 'https://greaterfinds.blogspot.com/search/label/yuba+ca'],
+
+// COLORADO
 
 adamsco: ['Adams, Colorado', 'https://greaterfinds.blogspot.com/search/label/adams+co'],
 alamosaco: ['Alamosa, Colorado', 'https://greaterfinds.blogspot.com/search/label/alamosa+co'],
@@ -328,6 +333,86 @@ newhavenct: ['New Haven, Connecticut', 'https://greaterfinds.blogspot.com/search
 newlondonct: ['New London, Connecticut', 'https://greaterfinds.blogspot.com/search/label/newlondon+ct'],
 tollandct: ['Tolland, Connecticut', 'https://greaterfinds.blogspot.com/search/label/tolland+ct'],
 windhamct: ['Windham, Connecticut', 'https://greaterfinds.blogspot.com/search/label/windham+ct'],
+
+// DELAWARE
+
+kentde: ['Kent, Delaware', 'https://greaterfinds.blogspot.com/search/label/kent+de'],
+newcastlede: ['New Castle, Delaware', 'https://greaterfinds.blogspot.com/search/label/newcastle+de'],
+sussexde: ['Sussex, Delaware', 'https://greaterfinds.blogspot.com/search/label/sussex+de'],
+
+// DC
+
+washingtondc: ['Washington, District of Columbia', 'https://greaterfinds.blogspot.com/search/label/washington+dc'],
+
+// FLORIDA
+
+alachuafl: ['Alachua, Florida', 'https://greaterfinds.blogspot.com/search/label/alachua+fl'],
+bakerfl: ['Baker, Florida', 'https://greaterfinds.blogspot.com/search/label/baker+fl'],
+bayfl: ['Bay, Florida', 'https://greaterfinds.blogspot.com/search/label/bay+fl'],
+bradfordfl: ['Bradford, Florida', 'https://greaterfinds.blogspot.com/search/label/bradford+fl'],
+brevardfl: ['Brevard, Florida',  'https://greaterfinds.blogspot.com/search/label/brevard+fl'],
+browardfl: ['Broward, Florida',  'https://greaterfinds.blogspot.com/search/label/broward+fl'],
+calhounfl: ['Calhoun, Florida',  'https://greaterfinds.blogspot.com/search/label/calhoun+fl'],
+charlottefl: ['Charlotte, Florida',  'https://greaterfinds.blogspot.com/search/label/charlotte+fl'],
+citrusfl: ['Citrus, Florida', 'https://greaterfinds.blogspot.com/search/label/citrus+fl'],
+clayfl: ['Clay, Florida', 'https://greaterfinds.blogspot.com/search/label/clay+fl'],
+collierfl: ['Collier, Florida',  'https://greaterfinds.blogspot.com/search/label/collier+fl'],
+columbiafl: ['Columbia, Florida',  'https://greaterfinds.blogspot.com/search/label/columbia+fl'],
+desotofl: ['DeSoto, Florida',  'https://greaterfinds.blogspot.com/search/label/desoto+fl'],
+dixiefl: ['Dixie, Florida', 'https://greaterfinds.blogspot.com/search/label/dixie+fl'],
+duvalfl: ['Duval, Florida', 'https://greaterfinds.blogspot.com/search/label/duval+fl'],
+escambiafl: ['Escambia, Florida',  'https://greaterfinds.blogspot.com/search/label/escambia+fl'],
+flaglerfl: ['Flagler, Florida',  'https://greaterfinds.blogspot.com/search/label/flagler+fl'],
+franklinfl: ['Franklin, Florida',  'https://greaterfinds.blogspot.com/search/label/franklin+fl'],
+gadsdenfl: ['Gadsden, Florida',  'https://greaterfinds.blogspot.com/search/label/gadsden+fl'],
+gilchristfl: ['Gilchrist, Florida',  'https://greaterfinds.blogspot.com/search/label/gilchrist+fl'],
+gladesfl: ['Glades, Florida',  'https://greaterfinds.blogspot.com/search/label/glades+fl'],
+gulffl: ['Gulf, Florida', 'https://greaterfinds.blogspot.com/search/label/gulf+fl'],
+hamiltonfl: ['Hamilton, Florida',  'https://greaterfinds.blogspot.com/search/label/hamilton+fl'],
+hardeefl: ['Hardee, Florida',  'https://greaterfinds.blogspot.com/search/label/hardee+fl'],
+hendryfl: ['Hendry, Florida',  'https://greaterfinds.blogspot.com/search/label/hendry+fl'],
+hernandofl: ['Hernando, Florida',  'https://greaterfinds.blogspot.com/search/label/hernando+fl'],
+highlandsfl: ['Highlands, Florida',  'https://greaterfinds.blogspot.com/search/label/highlands+fl'],
+hillsboroughfl: ['Hillsborough, Florida',  'https://greaterfinds.blogspot.com/search/label/hillsborough+fl'],
+holmesfl: ['Holmes, Florida',  'https://greaterfinds.blogspot.com/search/label/holmes+fl'],
+indianriverfl: ['Indian River, Florida',  'https://greaterfinds.blogspot.com/search/label/indianriver+fl'],
+jacksonfl: ['Jackson, Florida',  'https://greaterfinds.blogspot.com/search/label/jackson+fl'],
+jeffersonfl: ['Jefferson, Florida',  'https://greaterfinds.blogspot.com/search/label/jefferson+fl'],
+lafayettefl: ['Lafayette, Florida',  'https://greaterfinds.blogspot.com/search/label/lafayette+fl'],
+lakefl: ['Lake, Florida', 'https://greaterfinds.blogspot.com/search/label/lake+fl'],
+leefl: ['Lee, Florida',  'https://greaterfinds.blogspot.com/search/label/lee+fl'],
+leonfl: ['Leon, Florida', 'https://greaterfinds.blogspot.com/search/label/leon+fl'],
+levyfl: ['Levy, Florida',  'https://greaterfinds.blogspot.com/search/label/levy+fl'],
+libertyfl: ['Liberty, Florida',  'https://greaterfinds.blogspot.com/search/label/liberty+fl'],
+madisonfl: ['Madison, Florida',  'https://greaterfinds.blogspot.com/search/label/madison+fl'],
+manateefl: ['Manatee, Florida',  'https://greaterfinds.blogspot.com/search/label/manatee+fl'],
+marionfl: ['Marion, Florida',  'https://greaterfinds.blogspot.com/search/label/marion+fl'],
+martinfl: ['Martin, Florida',  'https://'''greaterfinds.blogspot.com/search/label/martin+fl'],
+miamidadefl: ['Miami-Dade, Florida', 'https://greaterfinds.blogspot.com/search/label/miamidade+fl'],
+monroefl: ['Monroe, Florida', 'https://greaterfinds.blogspot.com/search/label/monroe+fl'],
+nassaufl: ['Nassau, Florida', 'https://greaterfinds.blogspot.com/search/label/nassau+fl'],
+okaloosafl: ['Okaloosa, Florida', 'https://greaterfinds.blogspot.com/search/label/okaloosa+fl'],
+okeechobeefl: ['Okeechobee, Florida', 'https://greaterfinds.blogspot.com/search/label/okeechobee+fl'],
+orangefl: ['Orange, Florida', 'https://greaterfinds.blogspot.com/search/label/orange+fl'],
+osceolafl: ['Osceola, Florida', 'https://greaterfinds.blogspot.com/search/label/osceola+fl'],
+palmbeachfl: ['Palm Beach, Florida', 'https://greaterfinds.blogspot.com/search/label/palmbeach+fl'],
+pascofl: ['Pasco, Florida', 'https://greaterfinds.blogspot.com/search/label/pasco+fl'],
+pinellasfl: ['Pinellas, Florida', 'https://greaterfinds.blogspot.com/search/label/pinellas+fl'],
+polkfl: ['Polk, Florida', 'https://greaterfinds.blogspot.com/search/label/polk+fl'],
+putnamfl: ['Putnam, Florida', 'https://greaterfinds.blogspot.com/search/label/putnam+fl'],
+santarosafl: ['Santa Rosa, Florida', 'https://greaterfinds.blogspot.com/search/label/santarosa+fl'],
+sarasotafl: ['Sarasota, Florida', 'https://greaterfinds.blogspot.com/search/label/sarasota+fl'],
+seminolefl: ['Seminole, Florida', 'https://greaterfinds.blogspot.com/search/label/seminole+fl'],
+stjohnsfl: ['St. Johns, Florida', 'https://greaterfinds.blogspot.com/search/label/stjohns+fl'],
+stluciefl: ['St. Lucie, Florida', 'https://greaterfinds.blogspot.com/search/label/stlucie+fl'],
+sumterfl: ['Sumter, Florida', 'https://greaterfinds.blogspot.com/search/label/sumter+fl'],
+suwanneefl: ['Suwannee, Florida', 'https://greaterfinds.blogspot.com/search/label/suwannee+fl'],
+taylorfl: ['Taylor, Florida', 'https://greaterfinds.blogspot.com/search/label/taylor+fl'],
+unionfl: ['Union, Florida', 'https://greaterfinds.blogspot.com/search/label/union+fl'],
+volusiafl: ['Volusia, Florida', 'https://greaterfinds.blogspot.com/search/label/volusia+fl'],
+wakullafl: ['Wakulla, Florida', 'https://greaterfinds.blogspot.com/search/label/wakulla+fl'],
+waltonfl: ['Walton, Florida', 'https://greaterfinds.blogspot.com/search/label/walton+fl'],
+washingtonfl: ['Washington , Florida', 'https://greaterfinds.blogspot.com/search/label/washington+fl'],
 
 
 
