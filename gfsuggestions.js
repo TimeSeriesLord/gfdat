@@ -1228,12 +1228,14 @@ var suggestions = [
 { 'value': 'howardmd', 'label': 'Howard, Maryland' },
 { 'value': 'kentmd', 'label': 'Kent, Maryland' },
 { 'value': 'montgomerymd', 'label': 'Montgomery, Maryland' },
+
 { 'value': 'princegeorgesmd', 'label': 'Prince George\'s, Maryland' },
 { 'value': 'queenannesmd', 'label': 'Queen Anne\'s, Maryland' },
 { 'value': 'somersetmd', 'label': 'Somerset, Maryland' },
-{ 'value': 'stmarysmd', 'label': 'St. Mary's, Maryland' },
+{ 'value': 'stmarysmd', 'label': 'St. Mary\'s, Maryland' },
 { 'value': 'talbotmd', 'label': 'Talbot, Maryland' },
 { 'value': 'washingtonmd', 'label': 'Washington, Maryland' },
 { 'value': 'wicomicomd', 'label': 'Wicomico, Maryland' },
 { 'value': 'worcestermd', 'label': 'Worcester, Maryland' },
+
 ];
