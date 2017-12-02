@@ -823,5 +823,10 @@ vigoin: ['Vigo, Indiana', 'https://greaterfinds.blogspot.com/search/label/vigo+i
 wabashin: ['Wabash, Indiana', 'https://greaterfinds.blogspot.com/search/label/wabash+in'],
 warrenin: ['Warren, Indiana', 'https://greaterfinds.blogspot.com/search/label/warren+in'],
 warrickin: ['Warrick, Indiana', 'https://greaterfinds.blogspot.com/search/label/warrick+in'],
+washingtonin: ['Washington, Indiana', 'https://greaterfinds.blogspot.com/search/label/washington+in'],
+waynein: ['Wayne, Indiana', 'https://greaterfinds.blogspot.com/search/label/wayne+in'],
+wellsin: ['Wells, Indiana', 'https://greaterfinds.blogspot.com/search/label/wells+in'],
+whitein: ['White, Indiana', 'https://greaterfinds.blogspot.com/search/label/white+in'],
+whitleyin: ['Whitley, Indiana', 'https://greaterfinds.blogspot.com/search/label/whitley+in'],
 
 }
