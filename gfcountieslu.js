@@ -11,7 +11,7 @@ var countiesLookup = {
 "northslope": function() {return "North Slope";},
 "northwestarctic": function() {return "Northwest Arctic";},
 "princeofwaleshyder": function() {return "Prince of Wales-Hyder ";},
-"southeastfairbanks": function() {return "Southeast Fairbanks ";},
+"southeastfairbanks": function() {return "Southeast Fairbanks";},
 "lapaz": function() {return "La Paz";},
 "santacruz": function() {return "Santa Cruz";},
 "hotspring": function() {return "Hot Spring";},
@@ -225,4 +225,7 @@ var countiesLookup = {
 "stcroix": function() {return "St. Croix";},
 "bighorn": function() {return "Big Horn";},
 "hotsprings": function() {return "Hot Springs";},
+"obrien": function() {return "O\'Brien";},
+
+
 };
