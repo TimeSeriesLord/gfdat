@@ -1,4 +1,4 @@
-var sites = {
+var shortcuts = {
 
 // CITIES
 
