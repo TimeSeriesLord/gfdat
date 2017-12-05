@@ -1,4 +1,7 @@
 var lookupTable = {
+
+// USA
+
 "al": function() {return "Alabama";},
 "ak": function() {return "Alaska";},
 "az": function() {return "Arizona";},
@@ -50,4 +53,21 @@ var lookupTable = {
 "wv": function() {return "West Virginia";},
 "wi": function() {return "Wisconsin";},
 "wy": function() {return "Wyoming";},
+
+// CANADA
+
+"ab": function() {return "Alberta";},
+"bc": function() {return "British Columbia";},
+"mb": function() {return "Manitoba";},
+"nb": function() {return "New Brunswick";},
+"nl": function() {return "Newfoundland and Labrador";},
+"ns": function() {return "Nova Scotia";},
+"nt": function() {return "Northwest Territories";},
+"nu": function() {return "Nunavut";},
+"on": function() {return "Ontario";},
+"pe": function() {return "Prince Edward Island";},
+"qc": function() {return "Quebec";},
+"sk": function() {return "Saskatchewan";},
+"yt": function() {return "Yukon";},
+
 };
